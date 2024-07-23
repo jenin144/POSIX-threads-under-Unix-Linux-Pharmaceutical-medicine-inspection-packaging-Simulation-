@@ -1,0 +1,15 @@
+workers_number=4
+liquid_plines=3
+pill_plines=3
+numofsamplesofliquid=20
+numofsamplesofpill=20
+min_leve=70
+max_level=100
+min_size=10
+max_size=12
+minmed_level=90
+maxmed_level=60
+runduration=100
+medicinenum=100
+canceledliquid=100
+canceledpill=100

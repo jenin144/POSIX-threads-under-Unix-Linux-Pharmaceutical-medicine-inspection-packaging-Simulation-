@@ -50,7 +50,7 @@ This simulation models a medicine factory with multiple production lines operati
 - Interactive production monitoring
 
 ## Usage
-Run:  Makefile
+Run:  makefile
 
 
 
